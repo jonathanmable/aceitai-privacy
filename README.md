@@ -1,10 +1,10 @@
-# AceIt AI — Privacy Policy
+# Strap — Privacy Policy
 
 **Last updated:** April 2026
 
 ## Overview
 
-AceIt AI ("the App") is owned and operated by Jonathan Mable. This privacy policy explains how we collect, use, and protect your information.
+Strap ("the App") is owned and operated by Jonathan Mable. This privacy policy explains how we collect, use, and protect your information.
 
 ## Information We Collect
 
@@ -39,7 +39,7 @@ Practice session data is stored on your device until you delete the app. You can
 
 ## Children's Privacy
 
-AceIt AI is not directed at children under 13. We do not knowingly collect information from children under 13.
+Strap is not directed at children under 13. We do not knowingly collect information from children under 13.
 
 ## Changes to This Policy
 
